@@ -1,6 +1,6 @@
 # CI for Product Catalog Service
 
-name: product-catalog-ci
+name: product-catalog-ci-abhi
 
 on: 
     pull_request:
